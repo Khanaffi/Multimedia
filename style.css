@@ -51,11 +51,7 @@ margin-left: 0;
 padding: 0;
 }
 @media (max-width:1200px) {
-    #title{
-        background-image: url("pexels-andre-furtado-1264210.jpg");
-        background-size: cover;
-    }
-   
+  
 }
 .titlelogo{
     text-align: right;
